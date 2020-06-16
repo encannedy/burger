@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+    color: black;
+    font-size: medium;
+    
+    
+}
+
+.submit {
+    margin: 10px;
+}
+
+img {
+    width: 25%;
+}
+
+.enter_section {
+    margin: 15px;
+}
+
+.burger-row {
+    margin: 10px;
+}
+.container {
+background-color: red;
+padding: 20px
+
+}
