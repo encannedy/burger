@@ -53,8 +53,9 @@ $(document).ready(function() {
       }).then(function() {
         console.log("changed sleep to", newBurger);
         // Reload the page to get the updated list
-        location.reload();
+        
       });
+      location.reload();
     });
   
     //submit
@@ -78,8 +79,9 @@ $(document).ready(function() {
       }).then(function() {
         console.log("created new burger");
         // Reload the page to get the updated list
-        location.reload();
+       
       });
+      location.reload();
     });
 
     //delete
